@@ -1,0 +1,31 @@
+title: Atomics Laboratory
+description: Advanced Innovation & Manufacturing - 3D Printing of Artificial Human Organs, Medical Physics, Nuclear Physics, Humanoid Manufacturing, and Luxury Ship Manufacturing
+url: https://jeremybaraka499-commits.github.io/atomics-labs.com
+baseurl: /atomics-labs.com
+
+# GitHub Pages settings
+theme: jekyll-theme-minimal
+permalink: /:title/
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Site settings
+author:
+  name: Atomics Laboratory
+  email: info@atomics-labs.com
+
+# Social settings
+social:
+  - name: Email
+    link: mailto:info@atomics-labs.com
+
+# Build settings
+markdown: kramdown
+exclude: [README.md]
+
+# SEO settings
+lang: en
+locale: en_US
